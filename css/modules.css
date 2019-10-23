@@ -107,6 +107,7 @@ article footer{
     clear:none;
   }
 }
+/* Biggest */
 @media screen and (min-width:960px){
   
   article > div:first-child{

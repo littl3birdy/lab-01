@@ -2,7 +2,7 @@
 
 This was an assignment in my intermediate JS course.  We learned the basics of SMACSS styling principles with CSS.
 
-## feature tasks: (Quoted directly from CodeFellows 301 lab-01 assignment requirements)
+## Feature Tasks: (Quoted directly from CodeFellows 301 lab-01 assignment requirements)
 
 -Use SMACSS-style modularity to organize your CSS.
 
